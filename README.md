@@ -1,0 +1,2 @@
+# SlackAssistant
+Windows10でもSlack Appを快適に使うための常駐アプリ
