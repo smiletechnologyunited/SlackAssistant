@@ -1,3 +1,9 @@
+```
+Production 4.1.1 64-bit
+では不要になりました。それどころか日本語入力が変になります。
+```
+
+
 # SlackAssistant
 Windows10でもSlack Appを快適に使うための常駐アプリ
 
